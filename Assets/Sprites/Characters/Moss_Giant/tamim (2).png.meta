@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 5f65c98b388c6de46b548a7319901ed6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1837515640411818610
+    second: tamim (2)_0
+  - first:
+      213: -3520199072505015961
+    second: tamim (2)_1
+  - first:
+      213: -5838726566812042919
+    second: tamim (2)_2
+  - first:
+      213: 7155649257647840971
+    second: tamim (2)_3
+  - first:
+      213: 5003865843143889148
+    second: tamim (2)_4
+  - first:
+      213: -7029265369228765940
+    second: tamim (2)_5
+  - first:
+      213: 4276706082560860133
+    second: tamim (2)_6
+  - first:
+      213: -4924311257550632599
+    second: tamim (2)_7
+  - first:
+      213: -7609249047622639162
+    second: tamim (2)_8
+  - first:
+      213: 6010556228949318336
+    second: tamim (2)_9
+  - first:
+      213: -2030196888815691909
+    second: tamim (2)_10
+  - first:
+      213: -1269594561510800721
+    second: tamim (2)_11
+  - first:
+      213: 2185298664316732754
+    second: tamim (2)_12
+  - first:
+      213: 8406091268710364851
+    second: tamim (2)_13
+  - first:
+      213: 4370222379077712654
+    second: tamim (2)_14
+  - first:
+      213: 7031680300464452229
+    second: tamim (2)_15
+  - first:
+      213: -4089945934119128589
+    second: tamim (2)_16
+  - first:
+      213: -2122094881415119978
+    second: tamim (2)_17
+  - first:
+      213: -1499295144043825132
+    second: tamim (2)_18
+  - first:
+      213: -569012625766435925
+    second: tamim (2)_19
+  - first:
+      213: -4060160973008854740
+    second: tamim (2)_20
+  - first:
+      213: -7617099982176518897
+    second: tamim (2)_21
+  - first:
+      213: -1581383455251989024
+    second: tamim (2)_22
+  - first:
+      213: -5407780718839140987
+    second: tamim (2)_23
+  - first:
+      213: 6700397821311847322
+    second: tamim (2)_24
+  - first:
+      213: -5062485285816677434
+    second: tamim (2)_25
+  - first:
+      213: -2747453496963968914
+    second: tamim (2)_26
+  - first:
+      213: -5247927400947557077
+    second: tamim (2)_27
+  - first:
+      213: 4923446171388523803
+    second: tamim (2)_28
+  - first:
+      213: 8237165751983508616
+    second: tamim (2)_29
+  - first:
+      213: 8179883323251991279
+    second: tamim (2)_30
+  - first:
+      213: -8213887136044813775
+    second: tamim (2)_31
+  - first:
+      213: -8507249210750103732
+    second: tamim (2)_32
+  - first:
+      213: -6211639097914399948
+    second: tamim (2)_33
+  - first:
+      213: 1234202397876795376
+    second: tamim (2)_34
+  - first:
+      213: -2174054132223563312
+    second: tamim (2)_35
+  - first:
+      213: -4733989744877433954
+    second: tamim (2)_36
+  - first:
+      213: 844393480926780800
+    second: tamim (2)_37
+  - first:
+      213: 1819392992400304376
+    second: tamim (2)_38
+  - first:
+      213: -8752803797839300001
+    second: tamim (2)_39
+  - first:
+      213: -3291157951971935213
+    second: tamim (2)_40
+  - first:
+      213: 3602705818941445601
+    second: tamim (2)_41
+  - first:
+      213: -3247804063162097135
+    second: tamim (2)_42
+  - first:
+      213: 9100144061539758489
+    second: tamim (2)_43
+  - first:
+      213: -4716506009610007619
+    second: tamim (2)_44
+  - first:
+      213: -7809539774627120603
+    second: tamim (2)_45
+  - first:
+      213: -3922003981374228879
+    second: tamim (2)_46
+  - first:
+      213: -2439801302431368687
+    second: tamim (2)_47
+  - first:
+      213: 2021718176032015301
+    second: tamim (2)_48
+  - first:
+      213: 6495392318274171249
+    second: tamim (2)_49
+  - first:
+      213: 2308984963352849800
+    second: tamim (2)_50
+  - first:
+      213: -3414323332495888370
+    second: tamim (2)_51
+  - first:
+      213: -2928971753621025869
+    second: tamim (2)_52
+  - first:
+      213: -1218049972155955897
+    second: tamim (2)_53
+  - first:
+      213: -765933953520737727
+    second: tamim (2)_54
+  - first:
+      213: 5479956672416575073
+    second: tamim (2)_55
+  - first:
+      213: -5230329977210989873
+    second: tamim (2)_56
+  - first:
+      213: 6391460287134738304
+    second: tamim (2)_57
+  - first:
+      213: 4816797393564028821
+    second: tamim (2)_58
+  - first:
+      213: 9204618500500554030
+    second: tamim (2)_59
+  - first:
+      213: -6871040917621915966
+    second: tamim (2)_60
+  - first:
+      213: 462659788640519534
+    second: tamim (2)_61
+  - first:
+      213: 1414361513776812212
+    second: tamim (2)_62
+  - first:
+      213: 171831512783633654
+    second: tamim (2)_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tamim (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a88f74dba208910800000000000000
+      internalID: 1837515640411818610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761dda8289db52fc0800000000000000
+      internalID: -3520199072505015961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95938845f1da8fea0800000000000000
+      internalID: -5838726566812042919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce136b6619fd4360800000000000000
+      internalID: 7155649257647840971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05d44097d417540800000000000000
+      internalID: 5003865843143889148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051a2ba368037e90800000000000000
+      internalID: -7029265369228765940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efdacbe589e95b30800000000000000
+      internalID: 4276706082560860133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969cc3a500559abb0800000000000000
+      internalID: -4924311257550632599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c129f48e44866690800000000000000
+      internalID: -7609249047622639162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca19018b09c96350800000000000000
+      internalID: 6010556228949318336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779902afaa43d3e0800000000000000
+      internalID: -2030196888815691909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa28160197e716ee0800000000000000
+      internalID: -1269594561510800721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2550cb69e8db35e10800000000000000
+      internalID: 2185298664316732754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67ef4b87f68a470800000000000000
+      internalID: 8406091268710364851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb36e691626ac30800000000000000
+      internalID: 4370222379077712654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamim (2)_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582bb435afb859160800000000000000
+      internalID: 7031680300464452229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
